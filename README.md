@@ -132,6 +132,9 @@ OTP         : 1234
 ---
 
 ## Project structure
+## Project structure
+
+```
 ahoum-sessions-marketplace/
 ├── backend/
 │   ├── core/          # Django settings and URLs
@@ -150,8 +153,9 @@ ahoum-sessions-marketplace/
 ├── nginx/
 │   └── nginx.conf
 └── docker-compose.yml
+```
 
----
+
 
 ## Admin panel
 
